@@ -1,3 +1,4 @@
+![logo](https://github.com/sonikaur04/sonikaur04/blob/main/87f3f1425b217691da645e97dbb50d55.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Soni Kaur</h1>
 <h3 align="center">A passionate Web Developer, Data Analyst from India</h3>
 
